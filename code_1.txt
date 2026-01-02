@@ -1,0 +1,10 @@
+class test
+{
+
+void test(int m)
+{
+
+System.out.println("Test")
+
+}
+}
